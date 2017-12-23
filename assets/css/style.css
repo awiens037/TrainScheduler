@@ -1,0 +1,30 @@
+
+body {
+    background: url("../images/Train-Schedule-Board.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.jumbotron {
+    background-image: url("../images/train.jpg");
+	color: white;
+	text-shadow: 2px 3px 4px black;
+    margin-bottom: 20px;
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.panel, .panel-primary {
+	background-color: white;
+	min-height: 50%;
+}
+
+.panel-title {
+	background-color: cornflowerblue;
+	color: white;
+	font-size: 18px;
+}
